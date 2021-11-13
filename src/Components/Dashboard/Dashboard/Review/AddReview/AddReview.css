@@ -1,0 +1,15 @@
+.bgg {
+  background-image: url("https://images.unsplash.com/photo-1558981403-c5f9899a28bc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmlrZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+  /* background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ballooning-festival-at-cappadocia-during-sunrise-royalty-free-image-1570210964.jpg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+  background-color: rgba(7, 7, 7, 0.726);
+  background-blend-mode: darken;
+}
+.addreview {
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.315),
+    rgba(255, 255, 255, 0.445)
+  );
+}
